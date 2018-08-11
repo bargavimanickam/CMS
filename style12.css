@@ -1,0 +1,45 @@
+body {
+    background-image: url("meals.jpg");
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+.jumbotron
+{ 
+ margin-top: 100;
+ margin-bottom: 105px;
+    background-image: url("leaf.png"); 
+     background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+} 
+.navbar
+{background-color:green; 
+ border-radius: 25px;
+ margin-top: 10px;
+ margin-left:40px;
+ margin-right:40px;
+ }
+ .dropdown-menu
+ {
+ 	background-color:green; 
+ border-radius: 25px;
+ }
+ .btn 
+	{ 
+	  background-color: white; 
+	  text-decoration:none ;color: green;
+	}
+ .form-control
+ {
+ 	 height: 50px;
+     width: 300px;
+    
+ }
+ p
+ {
+ 	font-size: 50px;
+ 	font-style: bold ;
+ }
+
